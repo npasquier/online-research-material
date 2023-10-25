@@ -8,9 +8,9 @@ For further assistance or if you have comments, please contact me at my academic
 
 ```mermaid
   graph TD;
-      Root-->B;
-      A-->C;
-      B-->D;
-      C-->D;
+      Main repo-->Paper: Decentralization;
+      Paper: Decentralization--> Proof for Substitutes;
+      Paper: Decentralization--> Proof for Complements;
+      Paper: Decentralization--> Supplementary Appendix;
 ```
 
