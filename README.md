@@ -8,5 +8,5 @@ For further assistance or if you have comments, please contact me at my academic
 
 ```mermaid
   graph TD;
-      Main repo-->Paper: Decentralization;
+      A[Root]-->B[Proofs for paper "Decentralization and consumer welfare with substitutes or complements"];
 ```
