@@ -8,5 +8,5 @@ For further assistance or if you have comments, please contact me at my academic
 
 ```mermaid
   graph TD;
-      A[Root]-->B[Proofs for paper "Decentralization and consumer welfare with substitutes or complements"];
+      di{Root} --> sq[Proofs];
 ```
