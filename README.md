@@ -8,9 +8,9 @@ For further assistance or if you have comments, please contact me at my academic
 
 ```mermaid
    graph TD;
-      di{Root} --> sq(VIP-Decentralization);
+     di{Root} --> sq(VIP-Decentralization);
       sq(VIP-Decentralization) --> A[Mathematica Files];
       sq(VIP-Decentralization) --> B[Supp. Appendix];
-      di{Root} --> sq(Experiment-Demand-Uncertainty);
-      sq(Experiment-Demand-Uncertainty) --> A[Raw Data];
+      di{Root} --> q(Experiment-Demand-Uncertainty);
+      q(Experiment-Demand-Uncertainty) --> C[Raw Data];
 ```
